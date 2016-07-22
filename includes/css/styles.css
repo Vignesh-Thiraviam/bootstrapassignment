@@ -23,7 +23,7 @@ Notes:	 Hand coded for Udemy.com
   list-style: none;
 }
 .headerCompletion{
-  padding-top:150px;
+  padding-top:120px;
 }
 .jumbotron {
     width: 100%;
@@ -32,7 +32,7 @@ Notes:	 Hand coded for Udemy.com
     overflow: hidden;
 }
 #jumbo2{
-  background: #000 url("../../images/mu1.jpg") no-repeat center center;
+  background: #000 url("../../images/manublue.jpg") no-repeat center center;
   height: 300px;
   width: 100%;
 }
